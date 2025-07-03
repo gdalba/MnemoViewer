@@ -43,12 +43,15 @@ An interactive web application for visualizing genomics data including genome se
 - Modern web browser (Chrome, Firefox, Safari, Edge)
 - No server setup required - this is a static web application
 
-### Installation
-1. Clone or download this repository
-2. Open `index.html` in a web browser
-3. Start uploading your genomics data files
-
 ### Usage
+
+#### Locally
+
+run `python -m http.server 8000` from webpage directory for localhost access.
+
+#### Pre-made analysis
+
+Simply click (any of) the big green button in main page.
 
 #### Genome Browser
 1. Click on the "Genome Browser" tab
