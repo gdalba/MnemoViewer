@@ -2,6 +2,10 @@
 
 An interactive web application for visualizing genomics data including genome sequences, gene annotations, orthogroups, and functional annotations. Built as a static web app that can be hosted on GitHub Pages.
 
+## Important
+
+`folder_to_json.py` must be placed inside the `excel_output` folder and ran, it will then automatically load all excel files from that folder upon clicking analysis to be loaded in main page.
+
 ## Features
 
 ### 🧬 Genome Browser
